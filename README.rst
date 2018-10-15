@@ -24,7 +24,7 @@ Afterwards, install a virtual environment via virtualenv. Go to the root of the 
     virtualenv woody
     source woody/bin/activate
     cd ..
-    pip install -r requirements
+    pip install -r requirements.txt
 
 Next, you can install the package locally (development) via::
 
